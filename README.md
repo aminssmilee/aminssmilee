@@ -5,7 +5,7 @@
 <!-- ## 👋 Hello, I'm **Stalis Ahmad Sholeh** -->
 
 Hey there! I'm a **tech enthusiast** and **aspiring web developer** from **Lamongan, East Java, Indonesia**.  
-Currently, I'm on an exciting academic journey at **Politeknik Elektronika Negeri Surabaya**, majoring in **Informatics Engineering**.
+Currently, I'm on an exciting academic journey at **Electronic Engineering Polytechnic Institute of Surabaya (EEPIS)**, majoring in **Informatics Engineering**.
 
 ---
 
@@ -22,7 +22,7 @@ My main areas of interest include:
 
 ⚙️ Building Fullstack Applications with modern frameworks
 
-I’m currently studying Informatics Engineering at Politeknik Elektronika Negeri Surabaya (PENS).
+I’m currently studying Informatics Engineering at Electronic Engineering Polytechnic Institute of Surabaya (EEPIS).
 In a rapidly evolving tech world, I believe being a lifelong learner is not just important—it’s essential.
 
 Let’s connect and create meaningful digital experiences together!
