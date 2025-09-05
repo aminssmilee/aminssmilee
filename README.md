@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,100:191414&height=120&section=header&text=+Salis+Ahmad+Profile&fontSize=30&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,100:191414&height=120&section=header&text=Salis+Ahmad+aka+aminssmile&fontSize=30&fontColor=fff&font=Jakarta&animation=twinkling" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=1000&color=1DB954&center=true&width=500&lines=🎧+Listening+to+Tech+Beats;💻+Coding+Vibes;🌐+Building+Web+Apps" />
