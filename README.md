@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,100:191414&height=120&section=header&text=🎵+Salis+Ahmad's+Spotify+Profile&fontSize=30&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,100:191414&height=120&section=header&text=+Salis+Ahmad+Profile&fontSize=30&fontColor=fff&animation=twinkling" />
 </p>
 
 <p align="center">
