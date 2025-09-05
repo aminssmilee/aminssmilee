@@ -50,6 +50,26 @@ Currently studying **Informatics Engineering at EEPIS**.
 
 ---
 
+## 📊 GitHub Overview
+
+<div align="center">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminssmilee&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aminssmilee&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminssmilee&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminssmilee&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aminssmilee&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=aminssmilee&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=aminssmilee&theme=radical">
+</div>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminssmilee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=aminssmilee&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aminssmilee&theme=dark&hide_border=false">
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
