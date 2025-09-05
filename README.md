@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=1000&color=1DB954&center=true&width=500&lines=🎧+Listening+to+Tech+Beats;💻+Coding+Vibes;🌐+Building+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=24&duration=3000&pause=1000&color=1DB954&center=true&width=500&lines=🚀+Keep+Learning,+Keep+Coding;✨+Build,+Test,+Repeat;🌟+Creating+Digital+Experiences" />
 </p>
+
 
 ---
 
