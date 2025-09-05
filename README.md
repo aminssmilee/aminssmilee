@@ -1,4 +1,12 @@
 <p align="center">
+  <img src="img/github-header-image.png" alt="Header Image" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,100:191414&height=120&section=header&text=Salis+Ahmad+aka+aminssmile&fontSize=30&fontColor=fff&font=Jakarta&animation=twinkling" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,100:191414&height=120&section=header&text=Salis+Ahmad+aka+aminssmile&fontSize=30&fontColor=fff&font=Jakarta&animation=twinkling" />
 </p>
 
