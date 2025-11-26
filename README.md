@@ -10,21 +10,23 @@ Currently, I'm on an exciting academic journey at **Politeknik Elektronika Neger
 ---
 
 ### 🚀 About Me
-
+---
+```rs
 class Developer {
   nickname   = "aminssmile";
   fullname   = "Stalis Ahmad Sholeh";
-  role       = "Fullstack Web Developer";
+  role       = "Fullstack Web Developer (Laravel • React • Tailwind)";
   interests  = ["Web Development", "Backend API", "AI/ML", "UI/UX", "System Design"];
   skills     = ["Laravel", "React", "Tailwind", "MySQL", "Spring Boot", "Git"];
   from       = "Lamongan, Indonesia 🇮🇩";
   studyingAt = "Politeknik Elektronika Negeri Surabaya (PENS) — Informatics Engineering";
-  os         = "Windows";
+  os         = "Windows & Ubuntu";
   
   contact() {
     return "salisahmad48@email.com";
   }
 }
+
 
 
 ---
