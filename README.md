@@ -1,110 +1,31 @@
-<!-- Top [Presentation] -->
-</br>
-<div align="center">
-  <a href="https://web.facebook.com/bastndev"><img src=".github/assets/svg/on1.svg" width="11.5%" alt="Facebook"></a>
-  <a href="https://www.tiktok.com/@bastndev"><img src=".github/assets/svg/on2.svg" width="12%" alt="TikTok"></a>
-  <a href="https://bsky.app/profile/bastndev.com"><img src=".github/assets/svg/on3.svg" width="11.5%" alt="Bluesky"></a>
-  <a href="https://www.instagram.com/bastndev/"><img src=".github/assets/svg/on4.svg" width="11%" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/bastndev/"><img src=".github/assets/svg/on5.svg" width="11%" alt="LinkedIn"></a>
-  <a href="https://dev.to/bastndev"><img src=".github/assets/svg/on6.svg" width="11.5%" alt="Telegram"></a>
-  <a href="https://codepen.io/bastndev "><img src=".github/assets/svg/on7.svg" width="11%" alt="CodePen"></a>
-  <a href="https://dev.to/bastndev"><img src=".github/assets/svg/on8.svg" width="12%" alt="Dev.to"></a>
-</div>
 
-<!-- Flag US/CN -->
+
+<!-- Flag Selector -->
 <table align="right">
-  <tr><P>ㅤ</P><td><img src=".github/assets/img/us_flag.png" alt="US flag" width="21px" /> English</td></tr>
-  <tr><td><a href="https://gitee.com/bastndev"><img src=".github/assets/img/cn_flag.png" alt="CN flag" width="17px" /> Chinese</a></td></tr>
+  <tr><P>ㅤ</P><td><img src="https://raw.githubusercontent.com/bastndev/bastndev/main/.github/assets/img/us_flag.png" width="21px" /> English</td></tr>
+  <tr><td><img src="https://raw.githubusercontent.com/bastndev/bastndev/main/.github/assets/img/cn_flag.png" width="17px" /> Bahasa Indonesia</td></tr>
 </table>
 
 <!-- About ME -->
-## 🟠 About [ME](https://www.bastndev.com)
+## 🟠 About **ME**
 
 ```
-¡𝗛𝗲𝗹𝗹𝗼!👋, 𝙸'𝚊𝚖 𝙵𝚛𝚘𝚗𝚝-𝙴𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 (Web & 𝗠𝗼𝗯𝗶𝗹𝗲)... 
+¡𝗛𝗲𝗹𝗹𝗼!👋, 𝙸'𝚊𝚖 Fullstack 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 (Web & 𝗠𝗼𝗯𝗶𝗹𝗲)... 
 ```
 ```rs
-class 🧑‍💻 {
-  nickname  = 'bastndev';
-  skills    = ['LynxJS', 'NodeJS', 'AstroJS', 'Flutter', 'Firebase'];
-  interests = ['Linux', 'Web', 'Mobile', 'UI/UX', 'AI'];
-  work      = 'Microsoft';
-  From      = 'Peru 🇵🇪';
-  os        = 'Debian';
+class Developer {
+  nickname   = "aminssmile";
+  fullname   = "Stalis Ahmad Sholeh";
+  role       = "Fullstack Web Developer (Laravel • React • Tailwind)";
+  interests  = ["Web Development", "Backend API", "AI/ML", "UI/UX", "System Design"];
+  skills     = ["Laravel", "React", "Tailwind", "MySQL", "Spring Boot", "Git"];
+  from       = "Lamongan, Indonesia 🇮🇩";
+  studyingAt = "Politeknik Elektronika Negeri Surabaya (PENS) — Informatics Engineering";
+  os         = "Windows & Ubuntu";
+  
   contact() {
-    Email: hello@bastndev.com
+    return "salisahmad48@email.com";
   }
 }
+
 ```
-
-
-
-<!-- Vscode extensions -->
-## 🔵 VScode [Extensions](https://marketplace.visualstudio.com/publishers/bastndev)
-
-<table align="center" width="100%" style="table-layout: fixed">
-  <tr align="center">
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-js-snippets" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-js-snippets/0.2.0/1745166683713/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx snippets" width="70" />
-      </a>
-    </td>
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.bracket-lynx" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/bracket-lynx/0.3.2/1750119273143/Microsoft.VisualStudio.Services.Icons.Default" alt="bracket lynx" width="60" />
-      </a>
-    </td>
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynxjs-pack/0.1.0/1745191579610/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx pack" width="70" />
-      </a>
-    </td>
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/bastndev/Lynx-Keymap/refs/heads/main/assets/images/logo.png" width="70" />
-      </a>
-    </td>
-    <td>
-      <a href="https://open-vsx.org/namespace/bastndev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/assets/img/more.webp" alt="more extensions" width="45" />
-      </a>
-    </td>
-  </tr>
-  <tr align="center">
-    <th><a href="https://github.com/bastndev/Lynx-Theme">Theme</a></th>
-    <th><a href="https://github.com/bastndev/Lynx-js-Snippets">Snippets</a></th>
-    <th><a href="https://github.com/bastndev/Bracket-Lynx">Bracket</a></th>
-    <th><a href="https://github.com/bastndev/LynxJs-Packge">Package</a></th>
-    <th><a href="https://github.com/bastndev/Lynx-Keymap">Keymap</a></th>
-    <th>MORE</th>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Visitor counter -->
-<div align="center">
-  <a href="https://solo.to/bastndev" rel="noopener noreferrer">
-    <img src="https://komarev.com/ghpvc/?username=bastndev&style=flat-square&color=ff8800" alt="GitHub Profile Views" title="GitHub Profile Views" />
-  </a>
-</div>
-
-<!-- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=bstndev)
-![](https://komarev.com/ghpvc/?username=bstndev&color=green)
-![Profile Views](https://githitbox.duckdns.org/badge/bastndev)
-
-![Counter](https://githitbox.duckdns.org/badge/bastndev?style=counter&v=1) 
-![Counter](https://duckdns.org/update/exampledomain/yourtoken/ipaddress)
-<img src="https://yourdomain.com/counter_badge.php?key=bastndev" alt="Visitor Count">
-<img src="https://profile-counter.deno.dev/:bastndev:/count.svg" alt="Key:: Visitor's Count" />
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bastndev}/count.svg" /></p> 
-<br>
-</div> -->
