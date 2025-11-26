@@ -1,16 +1,4 @@
-<p align="center">
-    <img src="img/github-header-image.png" alt="banner" />
-</p>
-
-<!-- ## 👋 Hello, I'm **Stalis Ahmad Sholeh** -->
-
-<!-- Hey there! I'm a **tech enthusiast** and **aspiring web developer** from **Lamongan, East Java, Indonesia**.  
-Currently, I'm on an exciting academic journey at **Politeknik Elektronika Negeri Surabaya**, majoring in **Informatics Engineering**. -->
-
----
-
 ### 🚀 About Me
----
 ```rs
 class Developer {
   nickname   = "aminssmile";
@@ -28,8 +16,6 @@ class Developer {
 }
 
 
-
----
 
 ### 🛠️ Skills & Tech Stack
 
