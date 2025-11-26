@@ -1,91 +1,121 @@
-<p align="center">
-    <img src="img/github-header-image.png" alt="banner" />
-</p>
+<!-- Top [Presentation] -->
+</br>
+<div align="center">
+  <a href="https://web.facebook.com/bastndev"><img src=".github/assets/svg/on1.svg" width="11.5%" alt="Facebook"></a>
+  <a href="https://www.tiktok.com/@bastndev"><img src=".github/assets/svg/on2.svg" width="12%" alt="TikTok"></a>
+  <a href="https://bsky.app/profile/bastndev.com"><img src=".github/assets/svg/on3.svg" width="11.5%" alt="Bluesky"></a>
+  <a href="https://www.instagram.com/bastndev/"><img src=".github/assets/svg/on4.svg" width="11%" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/bastndev/"><img src=".github/assets/svg/on5.svg" width="11%" alt="LinkedIn"></a>
+  <a href="https://dev.to/bastndev"><img src=".github/assets/svg/on6.svg" width="11.5%" alt="Telegram"></a>
+  <a href="https://codepen.io/bastndev "><img src=".github/assets/svg/on7.svg" width="11%" alt="CodePen"></a>
+  <a href="https://dev.to/bastndev"><img src=".github/assets/svg/on8.svg" width="12%" alt="Dev.to"></a>
+</div>
 
-<!-- ## 👋 Hello, I'm **Stalis Ahmad Sholeh** -->
+<!-- Flag US/CN -->
+<table align="right">
+  <tr><P>ㅤ</P><td><img src=".github/assets/img/us_flag.png" alt="US flag" width="21px" /> English</td></tr>
+  <tr><td><a href="https://gitee.com/bastndev"><img src=".github/assets/img/cn_flag.png" alt="CN flag" width="17px" /> Chinese</a></td></tr>
+</table>
 
-Hey there! I'm a **tech enthusiast** and **aspiring web developer** from **Lamongan, East Java, Indonesia**.  
-Currently, I'm on an exciting academic journey at **Politeknik Elektronika Negeri Surabaya**, majoring in **Informatics Engineering**.
+<!-- About ME -->
+## 🟠 About [ME](https://www.bastndev.com)
 
----
+```
+¡𝗛𝗲𝗹𝗹𝗼!👋, 𝙸'𝚊𝚖 𝙵𝚛𝚘𝚗𝚝-𝙴𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 (Web & 𝗠𝗼𝗯𝗶𝗹𝗲)... 
+```
+```rs
+class 🧑‍💻 {
+  nickname  = 'bastndev';
+  skills    = ['LynxJS', 'NodeJS', 'AstroJS', 'Flutter', 'Firebase'];
+  interests = ['Linux', 'Web', 'Mobile', 'UI/UX', 'AI'];
+  work      = 'Microsoft';
+  From      = 'Peru 🇵🇪';
+  os        = 'Debian';
+  contact() {
+    Email: hello@bastndev.com
+  }
+}
+```
 
-### 🚀 About Me
-
-My passion for technology and web development drives everything I do.
-I love crafting intuitive, responsive, and scalable websites and applications.
-
-My main areas of interest include:
-
-🎨 UI/UX Design
-
-🌐 Frontend & Backend Web Development
-
-⚙️ Building Fullstack Applications with modern frameworks
-
-I’m currently studying Informatics Engineering at Politeknik Elektronika Negeri Surabaya (PENS).
-In a rapidly evolving tech world, I believe being a lifelong learner is not just important—it’s essential.
-
-Let’s connect and create meaningful digital experiences together!
-
----
-
-### 🛠️ Skills & Tech Stack
+<!-- Youtube channel -->
+## 🔴 Latest videos [Youtube](https://youtube.com/@bastndev?sub_confirmation=1)
 
 <div align="center">
-  
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Laravel-F55247?logo=laravel&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring-boot&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/REST_API-333333?logo=json&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat" />
-<img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat" />
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/IDE-2C2C32?logo=intellij-idea&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/API-6e6e6e?logo=apachespark&logoColor=white&style=flat" />
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![🧪 Hello World!! #code #programming  #shorts](https://ytcards.demolab.com/?id=otLIzN8u-9w&title=%F0%9F%A7%AA+Hello+World%21%21+%23code+%23programming++%23shorts&lang=en&timestamp=1751783307&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=273&border_radius=10&duration=44 "🧪 Hello World!! #code #programming  #shorts")](https://www.youtube.com/shorts/otLIzN8u-9w)
+[![Extension para Vscode Dark thema 2025  #reels](https://ytcards.demolab.com/?id=h7F9kvvQOLw&title=Extension+para+Vscode+Dark+thema+2025++%23reels&lang=en&timestamp=1744517996&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=273&border_radius=10&duration=38 "Extension para Vscode Dark thema 2025  #reels")](https://www.youtube.com/shorts/h7F9kvvQOLw)
+[![Descubrí proyectos ocultos de #linux  🐧💻 y | Necesito tu ayuda para encontrar más #shorts](https://ytcards.demolab.com/?id=_IAXOqjpmkQ&title=Descubr%C3%AD+proyectos+ocultos+de+%23linux++%F0%9F%90%A7%F0%9F%92%BB+y+%7C+Necesito+tu+ayuda+para+encontrar+m%C3%A1s+%23shorts&lang=en&timestamp=1743826045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=273&border_radius=10&duration=60 "Descubrí proyectos ocultos de #linux  🐧💻 y | Necesito tu ayuda para encontrar más #shorts")](https://www.youtube.com/shorts/_IAXOqjpmkQ)
+<!-- END YOUTUBE-CARDS -->
 
 </div>
 
----
+<!-- Vscode extensions -->
+## 🔵 VScode [Extensions](https://marketplace.visualstudio.com/publishers/bastndev)
 
-### 📈 GitHub Stats
+<table align="center" width="100%" style="table-layout: fixed">
+  <tr align="center">
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-js-snippets" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-js-snippets/0.2.0/1745166683713/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx snippets" width="70" />
+      </a>
+    </td>
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.bracket-lynx" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/bracket-lynx/0.3.2/1750119273143/Microsoft.VisualStudio.Services.Icons.Default" alt="bracket lynx" width="60" />
+      </a>
+    </td>
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynxjs-pack/0.1.0/1745191579610/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx pack" width="70" />
+      </a>
+    </td>
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/bastndev/Lynx-Keymap/refs/heads/main/assets/images/logo.png" width="70" />
+      </a>
+    </td>
+    <td>
+      <a href="https://open-vsx.org/namespace/bastndev" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/assets/img/more.webp" alt="more extensions" width="45" />
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <th><a href="https://github.com/bastndev/Lynx-Theme">Theme</a></th>
+    <th><a href="https://github.com/bastndev/Lynx-js-Snippets">Snippets</a></th>
+    <th><a href="https://github.com/bastndev/Bracket-Lynx">Bracket</a></th>
+    <th><a href="https://github.com/bastndev/LynxJs-Packge">Package</a></th>
+    <th><a href="https://github.com/bastndev/Lynx-Keymap">Keymap</a></th>
+    <th>MORE</th>
+  </tr>
+</table>
 
-<p align="center">
-  <img width="%" src="https://github-readme-streak-stats.herokuapp.com/?user=aminssmilee&theme=radical" />
-</p>
+<br/>
 
----
-
----
-
-### 📫 Let’s Connect!
-
-<p align="center">
-  <a href="https://aminssmilee.github.io/my-portfolio" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" title="Portfolio Website" />
-</a>
-
-  <a href="mailto:salisahmad48@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" title="Email" />
+<!-- Visitor counter -->
+<div align="center">
+  <a href="https://solo.to/bastndev" rel="noopener noreferrer">
+    <img src="https://komarev.com/ghpvc/?username=bastndev&style=flat-square&color=ff8800" alt="GitHub Profile Views" title="GitHub Profile Views" />
   </a>
-  <a href="https://www.linkedin.com/in/aminssmile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/aminssmile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" />
-  </a>
-</p>
+</div>
 
----
+<!-- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=bstndev)
+![](https://komarev.com/ghpvc/?username=bstndev&color=green)
+![Profile Views](https://githitbox.duckdns.org/badge/bastndev)
 
-> _"Build what you love, love what you build."_  
-> — **Stalis Ahmad Sholeh**
+![Counter](https://githitbox.duckdns.org/badge/bastndev?style=counter&v=1) 
+![Counter](https://duckdns.org/update/exampledomain/yourtoken/ipaddress)
+<img src="https://yourdomain.com/counter_badge.php?key=bastndev" alt="Visitor Count">
+<img src="https://profile-counter.deno.dev/:bastndev:/count.svg" alt="Key:: Visitor's Count" />
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count 👽 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bastndev}/count.svg" /></p> 
+<br>
+</div> -->
