@@ -8,16 +8,18 @@ class Developer {
   interests  = ["Web Development", "Backend API", "AI/ML", "UI/UX", "System Design"];
   skills     = ["Laravel", "React", "Tailwind", "MySQL", "Spring Boot", "Git"];
   from       = "Lamongan, Indonesia 🇮🇩";
-  studyingAt = "Politeknik Elektronika Negeri Surabaya (PENS) — Informatics Engineering";
+  studyingAt = "Politeknika Elektronika Negeri Surabaya (PENS) — Informatics Engineering";
   os         = "Windows & Ubuntu";
-  
+
   contact() {
     return "salisahmad48@email.com";
   }
 }
+```
 
+I’m passionate about building intuitive, responsive, and scalable digital products — combining clean UI/UX with reliable backend engineering.
 
-
+---
 
 ### 🛠️ Skills & Tech Stack
 
@@ -40,7 +42,7 @@ class Developer {
 <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/IDE-2C2C32?logo=intellij-idea&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-2C2C32?logo=intellij-idea&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/API-6e6e6e?logo=apachespark&logoColor=white&style=flat" />
 
 </div>
@@ -55,25 +57,27 @@ class Developer {
 
 ---
 
----
-
 ### 📫 Let’s Connect!
 
-<p align="center">
-  <a href="https://aminssmilee.github.io/my-portfolio" target="_blank">
+<div align="center">
+
+<a href="https://aminssmilee.github.io/my-portfolio" target="_blank">
   <img src="https://skillicons.dev/icons?i=vercel" title="Portfolio Website" />
 </a>
 
-  <a href="mailto:salisahmad48@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" title="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/aminssmile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/aminssmile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" />
-  </a>
-</p>
+<a href="mailto:salisahmad48@email.com">
+  <img src="https://skillicons.dev/icons?i=gmail" title="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/aminssmile" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" />
+</a>
+
+<a href="https://www.instagram.com/aminssmile" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" />
+</a>
+
+</div>
 
 ---
 
