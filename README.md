@@ -4,11 +4,11 @@
 class Developer {
   nickname   = "aminssmile";
   fullname   = "Stalis Ahmad Sholeh";
-  role       = "Fullstack Web Developer (Laravel • React • Tailwind)";
-  interests  = ["Web Development", "Backend API", "AI/ML", "UI/UX", "System Design"];
-  skills     = ["Laravel", "React", "Tailwind", "MySQL", "Spring Boot", "Git"];
-  from       = "Lamongan, Indonesia 🇮🇩";
-  studyingAt = "Politeknika Elektronika Negeri Surabaya (PENS) — Informatics Engineering";
+  role       = "Fullstack Web Developer";
+  interests  = ["Web Development", "Backend API", "UI/UX", "System Design"];
+  skills     = ["Laravel", "React", "Tailwind", "MySQL", "Git"];
+  from       = "Indonesia 🇮🇩";
+  studyingAt = "Electronic Engineering Polytechnic Institute of Surabaya (EEPIS) — Informatics Engineering";
   os         = "Windows & Ubuntu";
 
   contact() {
