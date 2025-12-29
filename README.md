@@ -108,7 +108,7 @@ const developer = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminssmilee&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aminssmilee&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
