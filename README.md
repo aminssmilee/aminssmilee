@@ -96,6 +96,8 @@ const developer = {
 
 ### 📈 GitHub Statistics
 
+### 📈 GitHub Statistics
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminssmilee&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminssmilee&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
@@ -108,6 +110,12 @@ const developer = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminssmilee&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aminssmilee&color=blueviolet&style=flat-square" />
+</p>
+
+
 
 ---
 
