@@ -96,15 +96,26 @@ const developer = {
 
 ### 📈 GitHub Statistics
 
-<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=aminssmilee&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminssmilee&layout=compact&theme=radical&langs_count=8"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminssmilee&theme=radical"/> </p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminssmilee&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminssmilee&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aminssmilee&theme=radical&no-frame=true&row=1"/> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminssmilee&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminssmilee&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aminssmilee&theme=radical&no-frame=true&row=1"/> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aminssmilee&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
 
 ---
 
