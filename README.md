@@ -82,7 +82,7 @@ const developer = {
 ## � GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminssmilee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aminssmilee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminssmilee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
@@ -90,6 +90,8 @@ const developer = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminssmilee&theme=tokyonight&hide_border=true&background=0d1117" alt="streak graph" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminssmilee&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br/>
