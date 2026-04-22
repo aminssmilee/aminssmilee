@@ -1,140 +1,73 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World&fontSize=80&fontAlignY=35&animation=fadeIn&desc=I'm%20Stalis%20Ahmad%20Sholeh&descAlignY=60&descAlign=50" width="100%"/>
+
+```
+ _____ _        _ _     
+/  ___| |      | (_)    
+\ `--.| |_ __ _| |_ ___ 
+ `--. \ __/ _` | | / __|
+/\__/ / || (_| | | \__ \
+\____/ \__\__,_|_|_|___/
+```
+
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer+%F0%9F%9A%80;Laravel+%26+React+Enthusiast+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%93%88" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Laravel+%26+React+Enthusiast;Building+things+that+matter." alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/aminssmilee">
-    <img src="https://img.shields.io/github/followers/aminssmilee?style=social&label=Follow&style=flat-square" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/aminssmile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:salisahmad48@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" alt="Email" />
-  </a>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=aminssmilee&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile views" />
-</div>
+---
 
-<br />
-
-<div align="center">
-  <img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding Gif" />
-</div>
-
-## ⚡ About Me
-
-```javascript
-const developer = {
-  name: "Stalis Ahmad Sholeh",
-  role: "Fullstack Web Developer",
-  based_in: "Indonesia 🇮🇩",
-  education: "EEPIS (Informatics Engineering)",
-  
-  skills: {
-    frontend: ["React", "Next.js", "Tailwind CSS"],
-    backend: ["Laravel", "Spring Boot", "Node.js"],
-    mobile: ["Flutter", "Dart"],
-    database: ["MySQL", "PostgreSQL", "Firebase"]
-  },
-  
-  current_focus: "Building modern, scalable web applications.",
-  quote: "Build what you love, love what you build."
+```ts
+const stalis = {
+  name    : "Stalis Ahmad Sholeh",
+  role    : "Fullstack Web Developer",
+  base    : "Indonesia 🇮🇩",
+  school  : "EEPIS — Informatics Engineering",
+  stack   : ["Laravel", "React", "Next.js", "Flutter", "Spring Boot"],
+  db      : ["MySQL", "PostgreSQL", "Firebase"],
+  contact : "salisahmad48@email.com",
+  motto   : "Build what you love, love what you build.",
 };
 ```
 
-<br clear="right"/>
+---
+
+### 🔧 Stack
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-## 🛠️ Technology Stack
+### 📊 Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aminssmilee&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" height="145"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminssmilee&layout=compact&theme=merko&hide_border=true" height="145"/>
+</div>
 
-### Frontend
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-
-### Backend
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-### Mobile & Tools
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminssmilee&theme=merko&hide_border=true" />
 </div>
 
 ---
 
-## � GitHub Statistics
+### 📫 Connect
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminssmilee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminssmilee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminssmilee&theme=tokyonight&hide_border=true&background=0d1117" alt="streak graph" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminssmilee&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aminssmilee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🔥 Project Name 1</h3>
-      <a href="https://github.com/aminssmilee/project1">
-        <img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge&logo=github" />
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-      <br/><br/>
-      <p>Brief description of your amazing project and what problems it solves. 🚀</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>⚡ Project Name 2</h3>
-      <a href="https://github.com/aminssmilee/project2">
-        <img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge&logo=github" />
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-      <br/><br/>
-      <p>Another cool project showcasing your mobile development skills. 📱</p>
-    </td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aminssmile-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aminssmile)
+[![GitHub](https://img.shields.io/badge/GitHub-aminssmilee-181717?style=flat-square&logo=github)](https://github.com/aminssmilee)
+[![Email](https://img.shields.io/badge/Email-salisahmad48-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:salisahmad48@email.com)
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <br />
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <sub>⚡ made with focus & coffee</sub>
 </div>
