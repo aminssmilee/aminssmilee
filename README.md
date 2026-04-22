@@ -1,14 +1,5 @@
 <div align="center">
-
-```
- _____ _        _ _     
-/  ___| |      | (_)    
-\ `--.| |_ __ _| |_ ___ 
- `--. \ __/ _` | | / __|
-/\__/ / || (_| | | \__ \
-\____/ \__\__,_|_|_|___/
-```
-
+  <img src="./img/ascii-banner.svg" alt="aminssmile" />
 </div>
 
 <div align="center">
