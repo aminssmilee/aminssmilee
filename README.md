@@ -1,27 +1,28 @@
-<div align="center">
-  <img src="./img/ascii-banner.svg" alt="aminssmile" />
-</div>
+## About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Laravel+%26+React+Enthusiast;Building+things+that+matter." alt="Typing SVG" />
-</div>
+👨‍💻 Who I Am:, Fullstack Web Developer lulusan Teknik Informatika PENS (EEPIS) yang bersemangat dalam merancang aplikasi web dan mobile berkinerja tinggi!  
+🌐 What I'm Focused On:** Saat ini fokus saya adalah membangun sistem end-to-end yang tangguh menggunakan ekosistem Laravel, Next.js, React, hingga Spring Boot.  
+🚀 My Mission: Berpegang pada prinsip *"Build what you love, love what you build"*—berkomitmen menghadirkan produk digital yang scalable, rapi, dan berdampak nyata.  
+💬 Ask me about anything
+📫 How to reach me: [@aminssmile](https://instagram.com/aminssmile) on Instagram
+
+---
+
+### 🌱 Tech Stack & Areas of Interest
+
+- 🌐 **Web Development:** Laravel, React, Next.js
+- 📱 **Mobile Development:** Flutter
+- ⚙️ **Backend & Enterprise:** Spring Boot
+- 🗄️ **Databases:** PostgreSQL, MySQL, Firebase
+- 💡 **Architecture:** RESTful APIs, Clean Architecture, Database Design
 
 ---
 
-```ts
-const stalis = {
-  name    : "Stalis Ahmad Sholeh",
-  role    : "Fullstack Web Developer",
-  base    : "Indonesia 🇮🇩",
-  school  : "EEPIS — Informatics Engineering",
-  stack   : ["Laravel", "React", "Next.js", "Flutter", "Spring Boot"],
-  db      : ["MySQL", "PostgreSQL", "Firebase"],
-  contact : "salisahmad48@email.com",
-  motto   : "Build what you love, love what you build.",
-};
-```
+### 🎨 Other Pursuits
 
----
+- 📚 Mempelajari teknologi dan framework baru
+- 🛠️ Merancang side projects dan prototipe aplikasi
+- ☕ Diskusi teknologi & arsitektur perangkat lunak
 
 ### 🔧 Stack
 
