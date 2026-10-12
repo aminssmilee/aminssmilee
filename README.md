@@ -1,16 +1,16 @@
 ## About Me
 
-👨‍💻 Who I Am:, Fullstack Web Developer lulusan Teknik Informatika PENS (EEPIS) yang bersemangat dalam merancang aplikasi web dan mobile berkinerja tinggi!  
-🌐 What I'm Focused On:** Saat ini fokus saya adalah membangun sistem end-to-end yang tangguh menggunakan ekosistem Laravel, Next.js, React, hingga Spring Boot.  
-🚀 My Mission: Berpegang pada prinsip *"Build what you love, love what you build"*—berkomitmen menghadirkan produk digital yang scalable, rapi, dan berdampak nyata.  
-💬 Ask me about anything
-📫 How to reach me: [@aminssmile](https://instagram.com/aminssmile) on Instagram
+- 👨‍💻 **Who I Am:** Full-Stack Developer with an Informatics Engineering background from PENS (EEPIS), passionate about crafting high-performance web and mobile applications.
+- 🌐 **Current Focus:** Building robust, end-to-end systems powered by Laravel, Next.js, React, and Spring Boot.
+- 🚀 **My Mission:** Guided by *"Build what you love, love what you build"*—committed to delivering scalable, clean, and impactful digital products.
+- 💬 **Ask Me About:** Web development, software architecture, and modern frameworks.
+- 📫 **Reach Me:** [@aminssmile](https://instagram.com/aminssmile) on Instagram
 
 ---
 
 ### 🌱 Tech Stack & Areas of Interest
 
-- 🌐 **Web Development:** Laravel, React, Next.js
+- 🌐 **Web Development:** Laravel, Next.js, React
 - 📱 **Mobile Development:** Flutter
 - ⚙️ **Backend & Enterprise:** Spring Boot
 - 🗄️ **Databases:** PostgreSQL, MySQL, Firebase
@@ -20,9 +20,9 @@
 
 ### 🎨 Other Pursuits
 
-- 📚 Mempelajari teknologi dan framework baru
-- 🛠️ Merancang side projects dan prototipe aplikasi
-- ☕ Diskusi teknologi & arsitektur perangkat lunak
+- 📚 Exploring emerging technologies and modern frameworks
+- 🛠️ Prototyping innovative side projects
+- ☕ Exchanging ideas on software architecture and tech trends
 
 ### 🔧 Stack
 
